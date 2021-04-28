@@ -1,0 +1,7 @@
+flask
+pandas
+gunicorn
+storage
+tensorflow==1.13.1
+google-cloud-storage==1.29.0
+
